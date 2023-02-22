@@ -1,6 +1,5 @@
-# My-project
-Data Analytics
-GROUP 2
+# Data Analytics GROUP 2
+
 Gaffar Alhassan
 Augustine Selase Adotri
 Jonathan Asmah
